@@ -1,0 +1,7 @@
+.banner {
+	background-image:linear-gradient(0deg, rgba(0,0,0,0.8) 30%, rgba(0,0,0,0.8)70%, rgba(0,0,0,0.8)), url(https://i.ibb.co/vXqDmnh/background.jpg);
+	height:650px;
+	border-bottom: 7px solid #222222;
+}
+
+

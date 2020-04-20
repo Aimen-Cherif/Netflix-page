@@ -1,0 +1,50 @@
+.dropdown button{
+    background-color: black;
+    border-radius:0px;
+
+}
+
+.dropdown button:hover{
+    text-decoration: none;
+    background-color: black;
+ }
+
+.dropdown button:active{
+    text-decoration: none;
+    background-color: black;
+ }
+
+.questions button{
+    background-color: #303030;
+    border-radius:0px;
+    font-size: 30px;
+    margin-top: 10px;
+    border-color: #303030;
+    width:800px;
+    text-align: left;
+    padding-left: 30px;
+    font-weight: lighter;
+}
+
+.questions{
+    text-align:center;
+}
+
+.dropdown-menu {
+    background-color: #303030;
+}
+
+.dropdown-item{
+    color:white;
+    width:800px;
+    display: block;
+    white-space:normal;
+    font-size:30px;
+    font-weight:200;
+}
+
+.dropdown-item:hover{
+    color:white;
+    text-decoration: none;
+    background-color: #303030;
+}
